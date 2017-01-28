@@ -1,0 +1,9 @@
+internet
+inter- among the department
+intra-within the boundary
+IOT-(internet of things) devices with connectivity like smart t.v, aircondition ect..
+nodes- different devices connected to the network
+wired-coaxial,UTP,fiber
+wireless-radio waves, bluetooth
+1969 - internet was establish
+1989 - www establish
