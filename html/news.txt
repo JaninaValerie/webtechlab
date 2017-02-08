@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+	
+<title>News</title>
+	
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+   
+<div class="header">
+        
+<strong>Good Governance</strong>
+    
+</div>
+   
+<div class="navbar">
+	    
+<ul class="navlist">
+	    	
+<li>
+	    		
+<a href="home.html">Home</a>
+	    	
+</li>
+	    	
+<li>
+	    		
+<a href="about.html">About Us</a>
+	    	
+</li>
+	    	
+<li>
+	    		
+<a href="news.html" >News</a>
+	    	
+</li>
+	    	
+<li>
+	    		
+<a href="gallery.html">Gallery</a>
+	    	
+</li>
+	    
+</ul>
+	
+</div>
+	<div class="news-title">
+	 
+<hr>
+		
+<h1><strong>News Headlines</strong></h1>
+		
+<hr>
+	
+</div>
+    
+<div class="news-1">
+    	
+<div class="news-content">
+    	    
+<a href = "http://www.guardian.co.tt/lifestyle/2017-02-02/alta-wins-ngo-award-good-governance"></a>
+	
+</div>
+	
+</div>
+     
+<div class="news-2">
+			
+<a href = "http://mumbaimirror.indiatimes.com/news/india/modi-rips-apart-sps-good-governance/articleshow/56978875.cms"></a>
+	
+</div>
+     
+<div class="news-3">
+			
+<a href = "http://www.thirdsector.co.uk/charity-commission-says-will-withdraw-good-governance-guidance/governance/article/1423030"></a>
+    
+<div class="footer2">
+	
+</div>
+		
+<strong> Good Governance 2017.</strong>
+	
+</div>

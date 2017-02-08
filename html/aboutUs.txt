@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<meta charset="utf-8">
+	
+<title>About Us</title>
+	
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+</head>
+<body>
+	   
+<div class="header">
+    	
+<strong> Good Governance</strong>
+    
+</div>
+   
+<div class="navbar">
+	    
+<ul class="navlist">
+	    	
+<li>
+	    		
+<a href="home.html">Home</a>
+	    	
+</li>
+	    	
+<li>
+	    		
+<a href="about.html">About Us</a>
+	    	
+</li>
+	    	
+<li>
+	    		
+<a href="news.html">News</a>
+	    	
+</li>
+	    	
+<li>
+	    		
+<a href="gallery.html">Gallery</a>
+	    	
+</li>
+	    
+</ul>
+	
+</div>
+   
+<div>
+   	
+   
+</div>
+   
+<div class="abtcontent">
+       
+<div class="abouttitle">
+           
+<h1>ABOUT US</h1>
+       
+</div>
+	  
+</div>
+	   
+<div class="aboutside">
+	   	
+<p>
+	   		
+<h2>About Us</h2>
+	   	
+<p>We’re designers, programmers, students, tinkerers and speakers that would like to bring an<br>
+			
+emphasis about how world top leaders think about all the projects and laws they impose. And to encourage teenagers or adult<br>
+			
+across the world to be someone with a good quality like our world leaders. 
+	   	
+</p>
+	   	
+	   
+</div>
+	   
+<div class="aboutside">
+	   	 
+<p>
+	   		
+<h2>Sife info</h2>
+	   	
+<p>Founded on January of 2017 and based in Baguio City, Philippines, is an enthusiasts that promotes<br>
+		
+an advocacy about Good Governance for the people to know and be educated about what Good Governance is all about 
+</p>
+	   
+</div>
+	   	   
+<div class="aboutside">
+	   	 
+   
+</div>
+   	
+<div class="footer2">
+		
+<strong> Good Governance 2017.
+</strong>
+	
+s</div>

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+	
+<title>Gallery</title>
+	
+<link rel="stylesheet" type="text/css" href="styles.css">
+      
+<div class="header">
+    	
+<strong>Good Governance</strong>
+    
+</div>
+    
+<div class="navbar">
+	    
+<ul class="navlist">
+	    	
+<li>
+	    		
+<a href="home.html">Home</a>
+	    	
+</li>
+	    	
+<li>
+	    		
+<a href="about.html">About Us</a>
+	    	
+</li>
+	    	
+<li>
+	    		
+<a href="news.html" >News</a>
+	    	
+</li>
+	    	
+<li>
+	    		
+<a href="gallery.html">Gallery</a>
+	    	
+</li>
+	    
+</ul>
+	
+</div>
+    
+<div class="gallery">
+        
+<div class="gallerytitle">
+	        
+<hr>
+	        	
+<h1>
+<strong>Gallery</strong>
+</h1>
+	        
+<hr>
+        
+</div>
+	    
+<div class="gallery-img">
+	    	
+<div class="gimgs">
+	    		
+<img src="img/image1.jpg" alt="Img1">
+				
+<img src="img/image2.jpg" alt="Img2">
+				
+<img src="img/image3.jpg" alt="Img3">
+	    		
+<p>In the town of Aritao, province of Nueva Vizcaya, held an outreach program for the pupils of such a needing school.<br>
+				
+The program provides the things pupils need in their academic and survival aspect.</p>
+	    	
+</div>
+	    	
+	    	
+<div class="gimgs">
+	    		
+<img src="img/image4.jpg" alt="Img4">
+				
+<img src="img/image5.jpg" alt="Img5">
+				
+<img src="img/image6.jpg" alt="Img6">
+	    		
+<p>There is a sensational division in the words festival and governance.<br>
+				
+In the yearly celebration of Panagbenga Festival in Baguio, Benguet,<br>
+				
+one can observe and appreciate successful events and various programs afterwards.</p>
+	    	
+</div>
+	    	
+			
+<div class="gimgs">
+	    		
+<img src="img/image7.jpg" alt="Img7">
+				
+<img src="img/image8.jpg" alt="Img8">
+				
+<img src="img/image9.jpg" alt="Img9">
+	    		
+<p>In this world, there are considered to be followers and leaders.<br>
+				
+Both of them are involved to make a difference. The photos are high school students from both public and private schools<br>
+				
+in Nueva Vizcaya who attended a leadership program. </p>
+	    	
+</div>
+	    	
+			
+<div class="gimgs">
+	    		
+<img src="img/image10.jpg" alt="Img10">
+				
+<img src="img/image11.jpg" alt="Img11">
+				
+<img src="img/image12.jpg" alt="Img12">
+	    		
+<p>Youth is the hope of the nation. They are the nation builders. In Aritao, Nueva Vizcaya,<br>
+				
+they allotted a program for Kid and Kab Scouts for the young male pupils.</p>
+	    	
+</div>
+			
+			
+<div class="gimgs">
+	    		
+<img src="img/image13.jpg" alt="Img13">
+	    		
+<p>The public institution should be able to maintain clean environment for the community.<br>
+				
+Their environment will let their community cooperate especially now that they can see the effect of the decisions of the local government.</p>
+	    	
+</div>
+			
+			
+<div class="gimgs">
+	    		
+<img src="img/image14.jpg" alt="Img14">
+	    		
+<p> In order for the decision-making process to be implemented at the right time they should br aware of their time.<br>
+				
+They should be able to use their time wisely and make their time worth it for their plans.<br>
+				
+They should be aware of their time and with the activities that they have to do.</p>
+			
+</div>
+			
+			
+<div class="gimgs">
+	    		
+<img src="img/image15.jpg" alt="Img15">
+	    		
+<p>The local government should be aware of the education that is being given to the students.<br>
+				
+They deserve to have the proper education to know about what is happening around them and provide<br>
+				
+them knowledge about what will be good for their community.</p>
+			
+</div>
+				
+			
+	    	
+</div>
+			
+	    
+</div>
+	
+<div class="footer2">
+		
+<strong> Good Governance 2017.</strong>
+	
+</div>

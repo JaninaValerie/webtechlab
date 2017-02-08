@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="utf-8">
+	
+<title>Good Governance</title>
+	
+<link rel="stylesheet" type="text/css" href="styles.css">
+
+</head>
+    
+<div class="header">
+    	
+<strong> Good Governance</strong>
+    
+</div>
+	<div class="navbar">
+	    
+<ul class="navlist">
+	    	
+<li>
+	    		
+<a href="index.html">Home</a>
+	    	
+</li>
+	    	
+<li>
+	    		
+<a href="about.html">About Us</a>
+	    	
+</li>
+	    	
+<li>
+	    		
+<a href="news.html" >News</a>
+	    	
+</li>
+	    	
+<li>
+	    		
+<a href="gallery.html">Gallery</a>
+	    	
+</li>
+	    
+</ul>
+	
+</div>
+
+	
+<div id="slider">
+		
+<figure>
+			
+<img src="./img/1a.jpg" alt style="width:1366px;height:500px;">
+		
+</figure>
+	
+</div>
+	
+<p>Good Governance is related to the public institutions that handles the public events, affairs, and resources.<br>
+	
+They are expected to be aware of the public situations and will be able to prevent any of the damages that could happen.<br>
+	
+They should be capable of being open minded to have thoughts and give advice that will make the people happy and organized.<br>
+	
+The public institutions should be smart for them to know what is wrong or if ever what is happening in public is not right anymore.<br>
+	
+In this case, the public institutions will be confident enough with their plans to implement it and will make sure that it will do good for the people.<br>
+	
+The people will notice immediately or eventually the changes of the plans implemented and it will show if it has a good effect with the public affairs.</p>
+
+<br>
+
+<p>How accountable is a Good Governance?<br>
+
+Being accountable is the root requirement to the way of good governance.<br>
+
+They are expected to have the right decisions despite all the negative things people will say against them.<br>
+
+People will expect in them based on their judgments.<br>
+Their decisions should consider the concerns of the people and will be able to do something about it.<br> 
+
+They should make sure that what they are planning about is for the betterment of the community.<br>
+
+The local government is obliged to report about what is the outcome of their decisions and will be responsible<br>
+for the consequences of what their decisions has made on behalf of their community.<br></p>
+
+<br>
+	
+<p>How effective is good governance?<br>
+ 
+The local government should be able to decide whether people and their resources are included in the<br>
+decision-making process. They should include everything that is considered for the requirement.<br>
+
+They should follow the process that will make their time worth it and will have possible good results for the community.</p>
+
+<br>
+	
+<p>How inclusive is good governance?<br>
+
+The local government should consider all interests of their community.<br> 
+
+They should consider all concerns of the people in the decision-making process.<br> 
+
+All types of groups should be included to have opportunities to state their concerns and considerations <br>
+regarding their interest for the decision-making.</p>
+
+<br>
+	
+<p>How does good governance participate?<br>
+
+The people who are interested in the decision-making should be given the chance to participate in the process.<br>
+
+They will be provided with the information needed in order for them to give opinions of how to improve.<br>
+They will be able to contribute for them to understand each other and consider its recommendation.<br>
+
+The local government will be able to participate with the concerns of the people.</p>
+
+<br>
+	
+<p>How responsive is good governance?<br>
+
+The local government should be able to meet the needs of the entire community to be able to be of service to them.<br> 
+
+They should offer their help in order for the community to think positively against them and their environment.<br>
+
+The community will also be able to help each other if the local government will be an example to them.<br>
+
+People will follow their decisions if they will see it clearly that they are right and following them is better<br>
+ than opinion of others. The local government should know or foresee what the community deserves.</p>
+ 
+<br>
+	
+<p>How transparent is good governance?<br>
+
+The public institution will be able to make their people follow and understand the decision-making process<br>
+
+by the way how they explain what has happened for the previous years to the present. They know that they are<br> 
+
+responsible to show how they will think of a way to make situations better. They will not make things complicated<br>
+
+and they will just explain the way how people will see it clearly why they have made the decision instead.<br>
+
+The people should be able to understand it the way how the public institution would want them to understand.</p>
+	
+<div class="footer">
+		
+<strong> Good Governance 2017 || All Rights Reserved. © </strong>
+		
+</div>
